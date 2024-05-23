@@ -381,7 +381,8 @@
       "reviewCategory": "production",
       "tags": [
         "frontend-team"
-      ]
+      ],
+      "shouldPublish": true
     },
     {
       "packageName": "testpkg_2",
@@ -389,7 +390,8 @@
       "reviewCategory": "production",
       "tags": [
         "frontend-team"
-      ]
+      ],
+      "shouldPublish": true
     }
   ]
 }
