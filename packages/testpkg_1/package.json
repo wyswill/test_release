@@ -1,6 +1,6 @@
 {
   "name": "testpkg_1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "shouldPublish": true,
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
