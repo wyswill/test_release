@@ -5,6 +5,10 @@
     {
       "name": "lodash",
       "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "testpkg_2",
+      "allowedCategories": [ "production" ]
     }
   ]
 }
