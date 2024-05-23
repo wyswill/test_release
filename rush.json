@@ -102,7 +102,7 @@
    * and set projectFolderMaxDepth to a large number.
    */
   // "projectFolderMinDepth": 2,
-  "projectFolderMaxDepth": 2,
+  // "projectFolderMaxDepth": 2,
 
   /**
    * Today the npmjs.com registry enforces fairly strict naming rules for packages, but in the early
@@ -315,19 +315,19 @@
     //   /**
     //    * The NPM package name of the project (must match package.json)
     //    */
-    //   "packageName": "my-app",
+      // "packageName": "test_rush",
     // 
     //   /**
     //    * The path to the project folder, relative to the rush.json config file.
     //    */
-    //   "projectFolder": "apps/my-app",
+      // "projectFolder": ".",
     // 
     //   /**
     //    * This field is only used if "subspacesEnabled" is true in subspaces.json.
     //    * It specifies the subspace that this project belongs to.  If omitted, then the
     //    * project belongs to the "default" subspace.
     //    */
-    //   // "subspaceName": "my-subspace",
+      // "subspaceName": "my-subspace",
     // 
     //   /**
     //    * An optional category for usage in the "browser-approved-packages.json"
@@ -414,12 +414,5 @@
       "reviewCategory": "production",
       "tags": [ "frontend-team" ]
     }
-    // 
-    // {
-    //   "packageName": "my-toolchain",
-    //   "projectFolder": "tools/my-toolchain",
-    //   "reviewCategory": "tools",
-    //   "tags": [ "tools" ]
-    // }
   ]
 }

@@ -2,5 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 function default_1() {
     console.log('[ thi is form test pkg_2 ] >');
+    console.log('[ change from pkg_2 ] >');
 }
 exports.default = default_1;
