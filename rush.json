@@ -24,8 +24,8 @@
    * Specify one of: "pnpmVersion", "npmVersion", or "yarnVersion".  See the Rush documentation
    * for details about these alternatives.
    */
-  "pnpmVersion": "7.33.5",
-  // "npmVersion": "6.14.15",
+  // "pnpmVersion": "7.33.5",
+  "npmVersion": "6.14.15",
   // "yarnVersion": "1.9.4",
   /**
    * Older releases of the Node.js engine may be missing features required by your system.
@@ -284,16 +284,16 @@
    * 3. It's useful to have a centralized inventory of all projects and their important metadata.
    */
   "projects": [
-    {
+    // {
       //   /**
       //    * The NPM package name of the project (must match package.json)
       //    */
-      "packageName": "test-app",
+      // "packageName": "test-app",
       // 
       //   /**
       //    * The path to the project folder, relative to the rush.json config file.
       //    */
-      "projectFolder": "./apps/test-app",
+      // "projectFolder": "./apps/test-app",
       // 
       //   /**
       //    * This field is only used if "subspacesEnabled" is true in subspaces.json.
@@ -373,7 +373,7 @@
       //    * ".", and "@" characters.
       //    */
       //   // "tags": [ "1.0.0-release", "frontend-team" ]
-    },
+    // },
     // 
     {
       "packageName": "testpkg_1",

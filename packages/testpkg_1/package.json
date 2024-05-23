@@ -8,7 +8,10 @@
     "package.json"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "rm -rf ./dist && tsc"
+  },
+  "dependencies": {
+    "testpkg_2":"workspace:^1.0.0"
   },
   "author": "",
   "license": "ISC",
