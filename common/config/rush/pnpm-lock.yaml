@@ -1,0 +1,32 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers: {}
+
+  ../../packages/testpkg_1:
+    specifiers:
+      testpkg_2: workspace:^1.0.4
+    dependencies:
+      testpkg_2: link:../testpkg_2
+
+  ../../packages/testpkg_2:
+    specifiers:
+      '@ma-dev/upload': ~2.3.3
+      lodash: ~4.17.21
+    dependencies:
+      '@ma-dev/upload': 2.3.3
+      lodash: 4.17.21
+
+packages:
+
+  /@ma-dev/upload/2.3.3:
+    resolution: {integrity: sha512-FxWN7GdFWUpeMIeLz3gCBqUBJOrXmqnEjcpEjOrX9Ol1qbc5mjh2++hedoKkGFeKRKs6s9nXi/pRACZQUMdAgw==, tarball: '@ma-dev/upload/-/@ma-dev/upload-2.3.3.tgz'}
+    peerDependencies:
+      vue: 2.6.11
+    dev: false
+
+  /lodash/4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==, tarball: https://jfrog-prod.maezia.com:443/artifactory/api/npm/npm-public/lodash/-/lodash-4.17.21.tgz}
+    dev: false

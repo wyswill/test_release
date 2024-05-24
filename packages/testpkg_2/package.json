@@ -15,5 +15,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@ma-dev/upload": "~2.3.3",
+    "lodash": "~4.17.21"
   }
 }
