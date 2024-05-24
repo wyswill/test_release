@@ -1,6 +1,6 @@
 {
   "name": "testpkg_1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "shouldPublish": true,
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -12,7 +12,7 @@
     "build": "rm -rf ./dist && tsc"
   },
   "dependencies": {
-    "testpkg_2": "workspace:^1.0.5"
+    "testpkg_2": "workspace:^1.0.6"
   },
   "author": "",
   "license": "ISC",

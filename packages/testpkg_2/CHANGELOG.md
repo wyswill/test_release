@@ -1,6 +1,13 @@
 # Change Log - testpkg_2
 
-This log was last generated on Fri, 24 May 2024 07:04:08 GMT and should not be manually modified.
+This log was last generated on Fri, 24 May 2024 07:09:00 GMT and should not be manually modified.
+
+## 1.0.6
+Fri, 24 May 2024 07:09:00 GMT
+
+### Patches
+
+- change pke2
 
 ## 1.0.5
 Fri, 24 May 2024 07:04:08 GMT

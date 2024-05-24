@@ -2,6 +2,23 @@
   "name": "testpkg_1",
   "entries": [
     {
+      "version": "1.0.4",
+      "tag": "testpkg_1_v1.0.4",
+      "date": "Fri, 24 May 2024 07:09:00 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "build plg1"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"testpkg_2\" from `^1.0.5` to `1.0.6`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.3",
       "tag": "testpkg_1_v1.0.3",
       "date": "Fri, 24 May 2024 07:04:08 GMT",
