@@ -1,0 +1,17 @@
+{
+  "name": "testpkg_1",
+  "entries": [
+    {
+      "version": "1.0.2",
+      "tag": "testpkg_1_v1.0.2",
+      "date": "Fri, 24 May 2024 03:07:59 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"testpkg_2\" from `^1.0.0` to `1.0.3`"
+          }
+        ]
+      }
+    }
+  ]
+}
