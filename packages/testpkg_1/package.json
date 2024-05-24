@@ -12,7 +12,7 @@
     "build": "rm -rf ./dist && tsc"
   },
   "dependencies": {
-    "testpkg_2": "workspace:^1.0.8"
+    "testpkg_2": "workspace:^1.0.9"
   },
   "author": "",
   "license": "ISC",

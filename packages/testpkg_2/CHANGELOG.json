@@ -2,6 +2,18 @@
   "name": "testpkg_2",
   "entries": [
     {
+      "version": "1.0.9",
+      "tag": "testpkg_2_v1.0.9",
+      "date": "Fri, 24 May 2024 07:25:17 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "asdf"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.8",
       "tag": "testpkg_2_v1.0.8",
       "date": "Fri, 24 May 2024 07:24:45 GMT",

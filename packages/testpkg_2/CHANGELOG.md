@@ -1,6 +1,13 @@
 # Change Log - testpkg_2
 
-This log was last generated on Fri, 24 May 2024 07:24:45 GMT and should not be manually modified.
+This log was last generated on Fri, 24 May 2024 07:25:17 GMT and should not be manually modified.
+
+## 1.0.9
+Fri, 24 May 2024 07:25:17 GMT
+
+### Patches
+
+- asdf
 
 ## 1.0.8
 Fri, 24 May 2024 07:24:45 GMT
