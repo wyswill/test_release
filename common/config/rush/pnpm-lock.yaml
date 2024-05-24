@@ -7,7 +7,7 @@ importers:
 
   ../../packages/testpkg_1:
     specifiers:
-      testpkg_2: workspace:^1.0.0
+      testpkg_2: workspace:^1.0.3
     dependencies:
       testpkg_2: link:../testpkg_2
 
