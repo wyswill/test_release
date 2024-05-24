@@ -2,6 +2,26 @@
   "name": "testpkg_1",
   "entries": [
     {
+      "version": "1.0.3",
+      "tag": "testpkg_1_v1.0.3",
+      "date": "Fri, 24 May 2024 07:04:08 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "asdf"
+          },
+          {
+            "comment": "add lodash"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"testpkg_2\" from `^1.0.4` to `1.0.5`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "testpkg_1_v1.0.2",
       "date": "Fri, 24 May 2024 03:07:59 GMT",
