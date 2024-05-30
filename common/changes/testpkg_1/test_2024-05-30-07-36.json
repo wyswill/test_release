@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "testpkg_1",
+      "comment": "test",
+      "type": "minor"
+    }
+  ],
+  "packageName": "testpkg_1"
+}
