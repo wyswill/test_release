@@ -2,6 +2,18 @@
   "name": "testpkg_1",
   "entries": [
     {
+      "version": "1.1.0",
+      "tag": "testpkg_1_v1.1.0",
+      "date": "Thu, 30 May 2024 07:39:13 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "test"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.6",
       "tag": "testpkg_1_v1.0.6",
       "date": "Fri, 24 May 2024 07:24:45 GMT",

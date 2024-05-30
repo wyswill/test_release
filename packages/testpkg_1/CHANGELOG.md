@@ -1,6 +1,13 @@
 # Change Log - testpkg_1
 
-This log was last generated on Fri, 24 May 2024 07:24:45 GMT and should not be manually modified.
+This log was last generated on Thu, 30 May 2024 07:39:13 GMT and should not be manually modified.
+
+## 1.1.0
+Thu, 30 May 2024 07:39:13 GMT
+
+### Minor changes
+
+- test
 
 ## 1.0.6
 Fri, 24 May 2024 07:24:45 GMT
